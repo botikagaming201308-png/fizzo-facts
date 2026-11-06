@@ -1,0 +1,24 @@
+{
+  "id": "2026-11-07",
+  "title": "Scotland's national animal is a UNICORN?! 🦄 #shorts",
+  "description": "Gizmo Jr. called himself a genius… big mistake. 🤖\nFizzo had three facts ready. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #robot #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "unicorn", "flamingo"],
+  "facts_checked": [
+    "The unicorn is Scotland's official national animal (on the royal coat of arms since the 1400s).",
+    "Bananas contain potassium-40, so they are very slightly radioactive; the amount is harmless.",
+    "A group of flamingos is called a flamboyance."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "I'm a GENIUS. Go on, test me.", "phonemes": "aɪm ɐ ʤˈiːniəs. ɡˌoʊ ˈɑːn, tˈɛst mˌiː.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "Scotland's national animal is a UNICORN.", "phonemes": "skˈɑːtləndz nˈæʃənəl ˈænɪməl ɪz ɐ jˈuːnɪkɔːɹn.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Unicorns aren't REAL!", "phonemes": "jˈuːnɪkɔːɹnz ˈɑːɹnt ɹˈiːəl!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "Doesn't matter. It's been OFFICIAL for hundreds of years.", "phonemes": "dˈʌzənt mˈæɾɚ. ɪts bˈɪn əfˈɪʃəl fɔːɹ hˈʌndɹədz ʌv jˈɪɹz.", "gizmo_mood": "shock", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Fine. One lucky fact.", "phonemes": "fˈaɪn. wˈʌn lˈʌki fˈækt.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "Bananas are a tiny bit RADIOACTIVE.", "phonemes": "bənˈænəz ɑːɹ ɐ tˈaɪni bˈɪt ɹˌeɪdioʊˈæktɪv.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "I ate THREE today!", "phonemes": "aɪ ˈeɪt θɹˈiː tədˈeɪ!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "Relax. It's HARMLESS.", "phonemes": "ɹɪlˈæks. ɪts hˈɑːɹmləs.", "gizmo_mood": "shock", "fizzo_mood": "laugh"},
+    {"speaker": "fizzo", "caption": "Last one. A group of flamingos is called a FLAMBOYANCE.", "phonemes": "lˈæst wˈʌn. ɐ ɡɹˈuːp ʌv fləmˈɪŋɡoʊz ɪz kˈɔːld ɐ flæmbˈɔɪəns.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "That is... FABULOUS. ERROR.", "phonemes": "ðæt ɪz... fˈæbjələs. ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "FOLLOW for more. Gizmo is still PROCESSING.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ ɪz stˈɪl pɹˈɑːsɛsɪŋ.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
