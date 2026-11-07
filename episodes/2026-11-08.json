@@ -1,0 +1,23 @@
+{
+  "id": "2026-11-08",
+  "title": "Octopuses have THREE hearts?! 🐙 #shorts",
+  "description": "Gizmo Jr. said he knows EVERYTHING… big mistake. 🤖\nFizzo brought three facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #robot #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "octopus", "wombat", "venus", "space"],
+  "facts_checked": [
+    "An octopus has three hearts: two pump blood through the gills, one pumps it around the body.",
+    "Wombats produce cube-shaped poop (explained by a 2018 study of their intestines).",
+    "Venus spins so slowly that one rotation (about 243 Earth days) takes longer than one orbit around the Sun (about 225 Earth days)."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "I know EVERYTHING. Try me.", "phonemes": "aɪ nˈoʊ ˈɛvɹiθˌɪŋ. tɹˈaɪ mˌiː.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "An octopus has THREE hearts.", "phonemes": "ɐn ˈɑːktəpəs hæz θɹˈiː hˈɑːɹts.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "THREE?! I don't even have ONE!", "phonemes": "θɹˈiː?! aɪ dˈoʊnt ˈiːvən hˈæv wˈʌn!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "Next. Wombats poop CUBES.", "phonemes": "nˈɛkst. wˈɑːmbæts pˈuːp kjˈuːbz.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Square POOP?! Impossible!", "phonemes": "skwˈɛɹ pˈuːp?! ɪmpˈɑːsəbəl!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "Scientists CHECKED. Little poop blocks.", "phonemes": "sˈaɪəntɪsts ʧˈɛkt. lˈɪɾəl pˈuːp blˈɑːks.", "gizmo_mood": "shock", "fizzo_mood": "laugh"},
+    {"speaker": "gizmo", "caption": "Fine. But space is MY thing.", "phonemes": "fˈaɪn. bˌʌt spˈeɪs ɪz mˈaɪ θˈɪŋ.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "On VENUS, one spin takes longer than a whole YEAR.", "phonemes": "ˈɑːn vˈiːnəs, wˈʌn spˈɪn tˈeɪks lˈɔːŋɡɚ ðæn ɐ hˈoʊl jˈɪɹ.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Day longer than YEAR... ERROR.", "phonemes": "dˈeɪ lˈɔːŋɡɚ ðæn jˈɪɹ... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "FOLLOW for more. Gizmo needs a REBOOT.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ nˈiːdz ɐ ɹˈiːbuːt.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
