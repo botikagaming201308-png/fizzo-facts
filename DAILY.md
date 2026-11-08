@@ -4,7 +4,12 @@ Channel: Fizzo Facts (YouTube Shorts, English). Two original robot characters:
 - **Fizzo** (`fizzo`): hyper, fast-talking host who tells the facts. Voice `am_puck`.
 - **Gizmo Jr.** (`gizmo`): posh know-it-all sidekick with glasses and a propeller cap; brags, gets proven wrong, glitches. Voice `bm_george`.
 
-Each episode: ~20–30 s, 9–12 beats. Gizmo brags → Fizzo drops 3 true "sounds fake" facts → Gizmo reacts (shock) after each → Gizmo glitches ("ERROR") → Fizzo ends with "Follow for more…" plus a joke about Gizmo.
+Each episode: ~20–30 s, 9–12 beats. Gizmo brags → Fizzo drops 3 true "sounds fake" facts → Gizmo reacts (shock) after each → Gizmo glitches ("ERROR") → Fizzo ends with a comment question ("Which one got YOU? Comment!") then "Follow for more…" plus a joke about Gizmo.
+
+What works (from channel stats): the octopus episode (2026-11-08) got ~7x the views of earlier ones. Its title led with the single most surprising ANIMAL fact plus an emoji, and it had a silly kid-friendly gross-out beat (wombat poop cubes). So:
+- Put the strongest, most visual animal fact FIRST, and build the title around it ("<Animal> <does X>?! <emoji> #shorts").
+- Include one silly/funny beat kids will want to repeat to friends (keep it harmless).
+- The final 2 beats must ask viewers to comment (the earlier episodes got 0 comments).
 
 ## Steps
 1. `bash tools/setup.sh` (downloads the voice model to ~/kokoro if missing; must print `setup ok`).
