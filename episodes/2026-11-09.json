@@ -1,0 +1,24 @@
+{
+  "id": "2026-11-09",
+  "title": "Bananas are BERRIES?! 🍌 #shorts",
+  "description": "Gizmo Jr. thinks he can't be surprised… wrong again. 🤖\nFizzo brought three facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #robot #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "sea otter", "eiffel tower", "banana", "science"],
+  "facts_checked": [
+    "Sea otters often hold paws while they sleep floating on the water, so they don't drift apart.",
+    "The Eiffel Tower grows a little taller in summer, because its iron expands in the heat (up to about 15 cm).",
+    "Botanically, bananas are berries, but strawberries are not."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "Nothing SURPRISES me. Nothing.", "phonemes": "nˈʌθɪŋ sɚpɹˈaɪzᵻz mˌiː. nˈʌθɪŋ.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "Sea otters HOLD HANDS while they sleep.", "phonemes": "sˈiː ˈɑːɾɚz hˈoʊld hˈændz wˌaɪl ðeɪ slˈiːp.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Holding HANDS?! That's too CUTE!", "phonemes": "hˈoʊldɪŋ hˈændz?! ðæts tˈuː kjˈuːt!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "So they don't FLOAT away from each other.", "phonemes": "sˌoʊ ðeɪ dˈoʊnt flˈoʊt ɐwˈeɪ fɹʌm ˈiːʧ ˈʌðɚ.", "gizmo_mood": "shock", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "Next. The EIFFEL TOWER grows in summer.", "phonemes": "nˈɛkst. ðə ˈaɪfəl tˈaʊɚ ɡɹˈoʊz ɪn sˈʌmɚ.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Towers can't GROW! It's METAL!", "phonemes": "tˈaʊɚz kˈænt ɡɹˈoʊ! ɪts mˈɛɾəl!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "Heat makes the iron EXPAND. It gets TALLER.", "phonemes": "hˈiːt mˈeɪks ðɪ ˈaɪɚn ɪkspˈænd. ɪt ɡɛts tˈɔːlɚ.", "gizmo_mood": "shock", "fizzo_mood": "laugh"},
+    {"speaker": "gizmo", "caption": "Fine. But I know my FRUIT.", "phonemes": "fˈaɪn. bˌʌt aɪ nˈoʊ mˈaɪ fɹˈuːt.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "BANANAS are berries. STRAWBERRIES are not.", "phonemes": "bənˈænəz ɑːɹ bˈɛɹiz. stɹˈɔːbɛɹiz ɑːɹ nˈɑːt.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Straw-BERRY is not a berry... ERROR.", "phonemes": "stɹˈɔːbɛɹi ɪz nˈɑːt ɐ bˈɛɹi... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "FOLLOW for more. Gizmo is going BANANAS.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ ɪz ɡˈoʊɪŋ bənˈænəz.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
