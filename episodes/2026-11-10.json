@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-10",
+  "title": "Butterflies TASTE with their FEET?! 🦋 #shorts",
+  "description": "Gizmo Jr. says animals can't fool him… wrong again. 🤖\nFizzo brought three animal facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #animals #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "butterfly", "sloth", "koala", "animals"],
+  "facts_checked": [
+    "Butterflies taste with their feet: taste sensors (chemoreceptors) on their feet let them taste a leaf by standing on it.",
+    "Three-toed sloths climb down from their tree to poop only about once a week.",
+    "Koalas have fingerprints that look almost exactly like human fingerprints."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "No ANIMAL can fool me. NONE.", "phonemes": "nˈoʊ ˈænɪməl kæn fˈuːl mˌiː. nˈʌn.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "Butterflies TASTE with their FEET.", "phonemes": "bˈʌɾɚflaɪz tˈeɪst wɪð ðɛɹ fˈiːt.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "With their FEET?! That's GROSS!", "phonemes": "wɪð ðɛɹ fˈiːt?! ðæts ɡɹˈoʊs!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "They STAND on a leaf to taste it!", "phonemes": "ðeɪ stˈænd ɑːn ɐ lˈiːf tə tˈeɪst ɪt!", "gizmo_mood": "shock", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "Next. SLOTHS poop about once a WEEK.", "phonemes": "nˈɛkst. slˈɔːθs pˈuːp ɐbˈaʊt wˈʌns ɐ wˈiːk.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Once a WEEK?! How do they HOLD it?!", "phonemes": "wˈʌns ɐ wˈiːk?! hˈaʊ dˈuː ðeɪ hˈoʊld ɪt?!", "gizmo_mood": "shock", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "And they climb DOWN the tree to go!", "phonemes": "ænd ðeɪ klˈaɪm dˈaʊn ðə tɹˈiː tə ɡˈoʊ!", "gizmo_mood": "shock", "fizzo_mood": "laugh"},
+    {"speaker": "gizmo", "caption": "Fine. But FINGERPRINTS are just for humans.", "phonemes": "fˈaɪn. bˌʌt fˈɪŋɡɚpɹɪnts ɑːɹ ʤˈʌst fɔːɹ hjˈuːmənz.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "KOALAS have fingerprints almost like OURS.", "phonemes": "koʊˈɑːləz hæv fˈɪŋɡɚpɹɪnts ˈɔːlmoʊst lˈaɪk ˈaʊɚz.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Koala... human... koala... ERROR.", "phonemes": "koʊˈɑːlə... hjˈuːmən... koʊˈɑːlə... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Which one got YOU? COMMENT below!", "phonemes": "wˈɪʧ wˈʌn ɡɑːt jˈuː? kˈɑːmɛnt bᵻlˈoʊ!", "gizmo_mood": "glitch", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "FOLLOW for more. Gizmo needs a REBOOT.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ nˈiːdz ɐ ɹˈiːbuːt.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
