@@ -20,6 +20,12 @@ SPK = {"fizzo": FIZZO, "gizmo": GIZMO}
 BEATS = [(SPK[b["speaker"]], b["caption"], b["phonemes"], b.get("gizmo_mood", "idle"), b.get("fizzo_mood", "idle")) for b in EP["beats"]]
 FLASH = {i for i, b in enumerate(EP["beats"]) if b.get("flash")}
 GAP = 0.22
+COVER = 1.5  # seconds of end card (hook text) so the last frame / chosen cover sells the episode
+
+def cover_text():
+    # optional "cover" field; default = title without hashtags and emoji
+    t = EP.get("cover") or " ".join(w for w in EP["title"].split() if not w.startswith("#"))
+    return "".join(ch for ch in t if ord(ch) < 0x2000).strip()
 
 # ---------- voice ----------
 def make_voices():
@@ -157,19 +163,20 @@ def wrap(d, words, f, maxw):
         lines.append(cur)
     return lines
 
-def caption(img, spk, text, prog, t):
+def caption(img, spk, text, prog, t, size=None):
     d = ImageDraw.Draw(img)
     words = text.split()
-    size = 104 if len(text) < 40 else (88 if len(text) < 60 else 78)
+    size = size or (104 if len(text) < 40 else (88 if len(text) < 60 else 78))
     f = F(size)
     lines = wrap(d, words, f, W - 140)
     lh = int(size * 1.3)
     y0 = 610 - len(lines) * lh // 2
     # speaker tag
-    tag = F(52)
-    tw = d.textlength(spk["name"], font=tag)
-    d.rounded_rectangle([W/2 - tw/2 - 28, y0 - 115, W/2 + tw/2 + 28, y0 - 35], radius=40, fill=spk["color"])
-    d.text((W/2, y0 - 75), spk["name"], font=tag, fill=(15, 15, 25), anchor="mm")
+    if spk is not None:
+        tag = F(52)
+        tw = d.textlength(spk["name"], font=tag)
+        d.rounded_rectangle([W/2 - tw/2 - 28, y0 - 115, W/2 + tw/2 + 28, y0 - 35], radius=40, fill=spk["color"])
+        d.text((W/2, y0 - 75), spk["name"], font=tag, fill=(15, 15, 25), anchor="mm")
     shown = int(math.ceil(prog * len(words) + 0.001))
     k = 0
     space = d.textlength(" ", font=f)
@@ -195,6 +202,14 @@ def header(img, gt, total):
     d.rounded_rectangle([60, 70, 60 + (W - 120) * min(1, gt / total), 88], radius=9, fill=ACC)
     d.text((W / 2, 150), "FIZZO FACTS", font=F(46), fill=(150, 230, 255), anchor="mm")
 
+def cover_frame(base, gt, total):
+    img = base.copy()
+    header(img, gt, total)
+    draw_fizzo(img, 290, 1270, 1.0, gt, "happy", 0, False)
+    draw_gizmo(img, 800, 1300, 1.0, gt, "shock", 0, False)
+    caption(img, None, cover_text(), 1, 0, size=120)
+    return img
+
 def envelope(a):
     n = int(len(a) / SR * FPS) + 1
     hop = SR // FPS
@@ -206,7 +221,7 @@ def render(only=None):
     clips = list(np.load(OUT + "clips.npy", allow_pickle=True))
     durs = [len(c) / SR + GAP for c in clips]
     durs[0] += 0.15; durs[-1] += 0.8
-    total = sum(durs)
+    total = sum(durs) + COVER
     base = bg()
     flash_beats = FLASH
     offs = 0
@@ -245,6 +260,15 @@ def render(only=None):
         if p.wait() == 0:
             os.replace(tmp, final)
         offs += durs[bi]
+    # end card: hook text, held still (also the cover frame)
+    cov = f"{OUT}cover.mp4"; parts.append(cov)
+    p = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
+                          "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
+                          "-pix_fmt", "yuv420p", cov], stdin=subprocess.PIPE)
+    for k in range(int(round(COVER * FPS))):
+        p.stdin.write(cover_frame(base, offs + k / FPS, total).tobytes())
+    p.stdin.close(); p.wait()
+    print("cover_ms", int((offs + COVER / 2) * 1000))
     # audio track
     track = np.zeros(int(total * SR) + SR, dtype=np.float32)
     start = 0.0
@@ -289,6 +313,7 @@ def preview():
         draw_gizmo(img, 800, 1300, 0.95 * (1.06 if spk is GIZMO else 1), 1.0, gm, 0.6 if spk is GIZMO else 0, spk is GIZMO)
         caption(img, spk, cap, 1, 1)
         shots.append(img.resize((360, 640)))
+    shots.append(cover_frame(base, 1.0, 30).resize((360, 640)))
     sheet = Image.new("RGB", (360 * len(shots), 640))
     for i, im in enumerate(shots):
         sheet.paste(im, (i * 360, 0))
