@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-11",
+  "title": "Hippos make their own SUNSCREEN?! 🦛 #shorts",
+  "description": "Gizmo Jr. says nature can't surprise him… wrong again. 🤖\nFizzo brought three animal facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #animals #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "hippo", "shark", "shrimp", "animals"],
+  "facts_checked": [
+    "Hippos make their own sunscreen: their skin oozes a red-orange 'sweat' (hipposudoric acid pigments) that blocks sunlight and fights germs (Nature, 2004).",
+    "Sharks are older than trees: sharks appeared about 450 million years ago, the first trees about 385-390 million years ago.",
+    "A shrimp's heart is in its head (the cephalothorax, the head-and-chest section)."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "Nothing in NATURE surprises me.", "phonemes": "nˈʌθɪŋ ɪn nˈeɪʧɚ sɚpɹˈaɪzᵻz mˌiː.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "HIPPOS make their own SUNSCREEN.", "phonemes": "hˈɪpoʊz mˈeɪk ðɛɹ ˈoʊn sˈʌnskɹiːn.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Their own SUNSCREEN?! From WHERE?!", "phonemes": "ðɛɹ ˈoʊn sˈʌnskɹiːn?! fɹʌm wˈɛɹ?!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "Their SWEAT turns red and blocks the sun!", "phonemes": "ðɛɹ swˈɛt tˈɜɹnz ɹˈɛd ænd blˈɑːks ðə sˈʌn!", "gizmo_mood": "shock", "fizzo_mood": "happy"},
+    {"speaker": "gizmo", "caption": "RED sweat?! That's DISGUSTING!", "phonemes": "ɹˈɛd swˈɛt?! ðæts dɪsɡˈʌstɪŋ!", "gizmo_mood": "shock", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Next. SHARKS are older than TREES.", "phonemes": "nˈɛkst. ʃˈɑːɹks ɑːɹ ˈoʊldɚ ðæn tɹˈiːz.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Older than TREES?! IMPOSSIBLE!", "phonemes": "ˈoʊldɚ ðæn tɹˈiːz?! ɪmpˈɑːsəbəl!", "gizmo_mood": "shock", "fizzo_mood": "happy", "flash": true},
+    {"speaker": "gizmo", "caption": "Fine. But a HEART goes in the CHEST.", "phonemes": "fˈaɪn. bˌʌt ɐ hˈɑːɹt ɡˈoʊz ɪn ðə ʧˈɛst.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "A SHRIMP'S heart is in its HEAD.", "phonemes": "ɐ ʃɹˈɪmps hˈɑːɹt ɪz ɪn ɪts hˈɛd.", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Heart... head... shrimp... ERROR.", "phonemes": "hˈɑːɹt... hˈɛd... ʃɹˈɪmp... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Which one got YOU? COMMENT below!", "phonemes": "wˈɪʧ wˈʌn ɡɑːt jˈuː? kˈɑːmɛnt bᵻlˈoʊ!", "gizmo_mood": "glitch", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "FOLLOW for more. Gizmo needs SUNSCREEN.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ nˈiːdz sˈʌnskɹiːn.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
