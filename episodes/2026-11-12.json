@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-12",
+  "title": "Some turtles BREATHE through their BUTTS?! 🐢 #shorts",
+  "description": "Gizmo Jr. says he knows every animal secret… wrong again. 🤖\nFizzo brought three animal facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #animals #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "turtle", "dolphin", "wood frog", "animals"],
+  "facts_checked": [
+    "Some turtles (e.g. Australia's Fitzroy River turtle) can take in oxygen from water through their cloaca, their rear opening, so they can stay underwater for a long time (cloacal respiration).",
+    "Dolphins sleep with half their brain at a time (unihemispheric sleep), often keeping one eye open, so they can keep swimming and come up to breathe.",
+    "Wood frogs freeze solid in winter: their heart and breathing stop, and they thaw and come back to life in spring."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "I know EVERY animal secret.", "phonemes": "ˈaɪ nˈoʊ ˈɛvɹi ˈænəməl sˈiːkɹɪt.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "Some TURTLES breathe through their BUTTS!", "phonemes": "sˈʌm tˈɜɹɾəlz bɹˈiːð θɹˈuː ðɛɹ bˈʌts!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Through their BUTTS?! NO WAY!", "phonemes": "θɹˈuː ðɛɹ bˈʌts?! nˈoʊ wˈeɪ!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "They grab OXYGEN from water... back THERE!", "phonemes": "ðeɪ ɡɹˈæb ˈɑːksᵻʤən fɹʌm wˈɔːɾɚ... bˈæk ðˈɛɹ!", "gizmo_mood": "shock", "fizzo_mood": "happy"},
+    {"speaker": "gizmo", "caption": "Butt BREATHING?! That's GROSS!", "phonemes": "bˈʌt bɹˈiːðɪŋ?! ðæts ɡɹˈoʊs!", "gizmo_mood": "shock", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Next. DOLPHINS sleep with HALF their brain!", "phonemes": "nˈɛkst. dˈɑːlfɪnz slˈiːp wɪð hˈæf ðɛɹ bɹˈeɪn!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "HALF a brain?! IMPOSSIBLE!", "phonemes": "hˈæf ɐ bɹˈeɪn?! ɪmpˈɑːsəbəl!", "gizmo_mood": "shock", "fizzo_mood": "happy", "flash": true},
+    {"speaker": "gizmo", "caption": "Fine. But FROZEN animals stay frozen.", "phonemes": "fˈaɪn. bˌʌt fɹˈoʊzən ˈænəməlz stˈeɪ fɹˈoʊzən.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "WOOD FROGS freeze solid and wake up in SPRING!", "phonemes": "wˈʊd fɹˈɑːɡz fɹˈiːz sˈɑːlɪd ænd wˈeɪk ˈʌp ɪn spɹˈɪŋ!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Frozen... frog... alive... ERROR.", "phonemes": "fɹˈoʊzən... fɹˈɑːɡ... ɐlˈaɪv... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Which one got YOU? COMMENT below!", "phonemes": "wˈɪʧ wˈʌn ɡɑːt jˈuː? kˈɑːmɛnt bᵻlˈoʊ!", "gizmo_mood": "glitch", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "FOLLOW for more! Gizmo just FROZE.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ ʤˈʌst fɹˈoʊz.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
