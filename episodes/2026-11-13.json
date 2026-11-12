@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-13",
+  "title": "Starfish have EYES on their ARMS?! ⭐ #shorts",
+  "description": "Gizmo Jr. thinks he has the best eyes ever… wrong again. 🤖\nFizzo brought three animal facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #animals #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "starfish", "flamingo", "axolotl", "animals"],
+  "facts_checked": [
+    "Many starfish (sea stars) have a simple eye at the tip of each arm, which they use to see their surroundings and find their way home (Proc. R. Soc. B, 2014).",
+    "Flamingos are pink because of carotenoid pigments in the algae and small shrimp-like animals they eat; without them they fade to a pale color.",
+    "Axolotls can regrow a whole lost leg (and even parts of their heart and spinal cord) without scarring."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "I have the BEST eyes ever.", "phonemes": "ˈaɪ hæv ðə bˈɛst ˈaɪz ˈɛvɚ.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "STARFISH have an EYE on every ARM!", "phonemes": "stˈɑːɹfɪʃ hæv ɐn ˈaɪ ɑːn ˈɛvɹi ˈɑːɹm!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Eyes on their ARMS?! NO WAY!", "phonemes": "ˈaɪz ɑːn ðɛɹ ˈɑːɹmz?! nˈoʊ wˈeɪ!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "A tiny eye at the TIP of each arm!", "phonemes": "ɐ tˈaɪni ˈaɪ æt ðə tˈɪp ʌv ˈiːʧ ˈɑːɹm!", "gizmo_mood": "shock", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "Next. FLAMINGOS are pink from their FOOD!", "phonemes": "nˈɛkst. fləmˈɪŋɡoʊz ɑːɹ pˈɪŋk fɹʌm ðɛɹ fˈuːd!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "So if I eat PINK food... I turn PINK?!", "phonemes": "sˌoʊ ɪf ˈaɪ ˈiːt pˈɪŋk fˈuːd... ˈaɪ tˈɜɹn pˈɪŋk?!", "gizmo_mood": "shock", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "No, Gizmo! SHRIMP and ALGAE make THEM pink!", "phonemes": "nˈoʊ, ɡˈɪzmoʊ! ʃɹˈɪmp ænd ˈælʤi mˈeɪk ðˈɛm pˈɪŋk!", "gizmo_mood": "shock", "fizzo_mood": "laugh"},
+    {"speaker": "gizmo", "caption": "Fine. But lost legs NEVER grow back.", "phonemes": "fˈaɪn. bˌʌt lˈɔːst lˈɛɡz nˈɛvɚ ɡɹˈoʊ bˈæk.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "AXOLOTLS can grow a whole new LEG!", "phonemes": "ˈæksəlɑːɾəlz kæn ɡɹˈoʊ ɐ hˈoʊl nˈuː lˈɛɡ!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "New... leg... grows... ERROR.", "phonemes": "nˈuː... lˈɛɡ... ɡɹˈoʊz... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Which one got YOU? COMMENT below!", "phonemes": "wˈɪʧ wˈʌn ɡɑːt jˈuː? kˈɑːmɛnt bᵻlˈoʊ!", "gizmo_mood": "glitch", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "FOLLOW for more! Gizmo needs a REBOOT.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ nˈiːdz ɐ ɹˈiːbuːt.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
