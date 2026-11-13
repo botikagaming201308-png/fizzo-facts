@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-14",
+  "title": "Ostrich EYES are BIGGER than their BRAIN?! 👀 #shorts",
+  "description": "Gizmo Jr. thinks his big brain knows everything… wrong again. 🤖\nFizzo brought three animal facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #animals #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "ostrich", "vulture", "honeybee", "animals"],
+  "facts_checked": [
+    "An ostrich's eye (about 5 cm across, among the largest of any land animal) is bigger than its brain.",
+    "Some vultures and storks (e.g. turkey vultures) pee on their own legs to cool down on hot days; the evaporating liquid cools them (urohidrosis).",
+    "Honeybees do a 'waggle dance' in the hive that tells other bees the direction and distance to flowers (Karl von Frisch, Nobel Prize 1973)."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "My BIG BRAIN knows EVERYTHING.", "phonemes": "maɪ bˈɪɡ bɹˈeɪn nˈoʊz ˈɛvɹiθɪŋ.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "An OSTRICH eye is BIGGER than its BRAIN!", "phonemes": "ɐn ˈɑːstɹɪʧ ˈaɪ ɪz bˈɪɡɚ ðæn ɪts bɹˈeɪn!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Eyes BIGGER than brains?! NO WAY!", "phonemes": "ˈaɪz bˈɪɡɚ ðæn bɹˈeɪnz?! nˈoʊ wˈeɪ!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "HUGE eyes to spot danger FAR away!", "phonemes": "hjˈuːʤ ˈaɪz tə spˈɑːt dˈeɪnʤɚ fˈɑːɹ ɐwˈeɪ!", "gizmo_mood": "shock", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "Next. VULTURES pee on their own LEGS!", "phonemes": "nˈɛkst. vˈʌlʧɚz pˈiː ɑːn ðɛɹ ˈoʊn lˈɛɡz!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "EWW! WHY would they DO that?!", "phonemes": "ˈiːuː! wˈaɪ wʊd ðeɪ dˈuː ðˈæt?!", "gizmo_mood": "shock", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "It COOLS them off on HOT days!", "phonemes": "ɪt kˈuːlz ðəm ˈɔːf ɑːn hˈɑːt dˈeɪz!", "gizmo_mood": "shock", "fizzo_mood": "laugh"},
+    {"speaker": "gizmo", "caption": "Fine. But BUGS can't give DIRECTIONS.", "phonemes": "fˈaɪn. bˌʌt bˈʌɡz kˈænt ɡˈɪv dɚɹˈɛkʃənz.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "HONEYBEES dance to show where FLOWERS are!", "phonemes": "hˈʌnibiːz dˈæns tə ʃˈoʊ wˈɛɹ flˈaʊɚz ɑːɹ!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Bees... dancing... MAPS... ERROR.", "phonemes": "bˈiːz... dˈænsɪŋ... mˈæps... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Which one got YOU? COMMENT below!", "phonemes": "wˈɪʧ wˈʌn ɡɑːt jˈuː? kˈɑːmɛnt bᵻlˈoʊ!", "gizmo_mood": "glitch", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "FOLLOW for more! Gizmo needs a BIGGER brain.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ nˈiːdz ɐ bˈɪɡɚ bɹˈeɪn.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
