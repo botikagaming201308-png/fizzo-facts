@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-15",
+  "title": "Woodpecker TONGUES wrap around their SKULL?! 🐦 #shorts",
+  "description": "Gizmo Jr. says he knows every animal secret… wrong again. 🤖\nFizzo brought three animal facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #animals #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "woodpecker", "parrotfish", "sea otter", "animals"],
+  "facts_checked": [
+    "A woodpecker's tongue is so long that, when pulled back, it (with its supporting hyoid bones) wraps around the back and top of the skull.",
+    "Much of the white sand on tropical beaches (e.g. Hawaii, Maldives) is parrotfish poop: they bite coral, grind it up and poop it out as sand.",
+    "Sea otters have a loose pouch of skin under each forearm where they store food and a favorite rock they use to crack open shellfish."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "I know EVERY animal SECRET.", "phonemes": "aɪ nˈoʊ ˈɛvɹi ˈænəməl sˈikɹət.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "WOODPECKER tongues wrap around their SKULL!", "phonemes": "wˈʊdpɛkɚ tˈʌŋz ɹˈæp ɐɹˈaʊnd ðɛɹ skˈʌl!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Around its HEAD?! NO WAY!", "phonemes": "ɐɹˈaʊnd ɪts hˈɛd?! nˈoʊ wˈeɪ!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "So LONG it has to WRAP up inside!", "phonemes": "sˈoʊ lˈɔːŋ ɪt hæz tə ɹˈæp ˈʌp ɪnsˈaɪd!", "gizmo_mood": "shock", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "Next. White BEACH sand is partly FISH POOP!", "phonemes": "nˈɛkst. wˈaɪt bˈiːʧ sˈænd ɪz pˈɑːɹtli fˈɪʃ pˈuːp!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "EWW! I made SANDCASTLES with that?!", "phonemes": "ˈiːuː! aɪ mˈeɪd sˈændkæsəlz wɪð ðˈæt?!", "gizmo_mood": "shock", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "PARROTFISH munch coral and poop out SAND!", "phonemes": "pˈæɹətfɪʃ mˈʌnʧ kˈɔːɹəl ænd pˈuːp ˈaʊt sˈænd!", "gizmo_mood": "shock", "fizzo_mood": "laugh"},
+    {"speaker": "gizmo", "caption": "Fine. But animals don't have POCKETS.", "phonemes": "fˈaɪn. bˌʌt ˈænəməlz dˈoʊnt hæv pˈɑːkɪts.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "SEA OTTERS keep a favorite ROCK in an arm pocket!", "phonemes": "sˈiː ˈɑːɾɚz kˈiːp ɐ fˈeɪvɹɪt ɹˈɑːk ɪn ɐn ˈɑːɹm pˈɑːkɪt!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Fish... poop... rock POCKETS... ERROR.", "phonemes": "fˈɪʃ... pˈuːp... ɹˈɑːk pˈɑːkɪts... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Which one got YOU? COMMENT below!", "phonemes": "wˈɪʧ wˈʌn ɡɑːt jˈuː? kˈɑːmɛnt bᵻlˈoʊ!", "gizmo_mood": "glitch", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "FOLLOW for more! Gizmo needs a ROCK pocket.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊ nˈiːdz ɐ ɹˈɑːk pˈɑːkɪt.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
