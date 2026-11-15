@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-16",
+  "title": "Polar bears have BLACK skin?! 🐻‍❄️ #shorts",
+  "cover": "Polar bears have BLACK SKIN?!",
+  "description": "Gizmo Jr. says he knows everything about animals… wrong again. 🤖\nFizzo brought three animal facts that sound fake but are 100% true. ⚡\n\nWhich one got you? Comment below! 👇\nFollow for a new mind-blowing fact every day!\n\n#facts #funfacts #didyouknow #animals #shorts",
+  "tags": ["fun facts", "did you know", "robot", "animation", "shorts", "polar bear", "owl", "rabbit", "animals"],
+  "facts_checked": [
+    "Polar bears have black skin under their fur; the hairs are transparent (not white) and only look white because they scatter light (Polar Bears International).",
+    "Owls cannot move their eyes in their sockets, so they turn their heads instead, up to about 270 degrees (National Geographic, 2013).",
+    "Rabbits eat some of their own poop: soft droppings called cecotropes, full of nutrients and vitamins made by gut bacteria, which they re-eat straight from their bottom."
+  ],
+  "beats": [
+    {"speaker": "gizmo", "caption": "I know EVERYTHING about animals.", "phonemes": "aɪ nˈoʊ ˈɛvɹiθɪŋ ɐbˈaʊt ˈænəməlz.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "POLAR BEARS have BLACK skin!", "phonemes": "pˈoʊlɚ bˈɛɹz hæv blˈæk skˈɪn!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "BLACK?! But they're WHITE!", "phonemes": "blˈæk?! bˌʌt ðɛɹ wˈaɪt!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "Their fur is SEE-THROUGH! It just LOOKS white!", "phonemes": "ðɛɹ fˈɜːɹ ɪz sˈiːθɹuː! ɪt ʤˈʌst lˈʊks wˈaɪt!", "gizmo_mood": "shock", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "Next. OWLS can't move their EYES!", "phonemes": "nˈɛkst. ˈaʊlz kˈænt mˈuːv ðɛɹ ˈaɪz!", "gizmo_mood": "smug", "fizzo_mood": "talk"},
+    {"speaker": "gizmo", "caption": "Then how do they LOOK around?!", "phonemes": "ðˈɛn hˈaʊ dˈuː ðeɪ lˈʊk ɐɹˈaʊnd?!", "gizmo_mood": "shock", "fizzo_mood": "idle", "flash": true},
+    {"speaker": "fizzo", "caption": "They turn their HEAD almost all the way AROUND!", "phonemes": "ðeɪ tˈɜːɹn ðɛɹ hˈɛd ˈɔːlmoʊst ˈɔːl ðə wˈeɪ ɐɹˈaʊnd!", "gizmo_mood": "shock", "fizzo_mood": "laugh"},
+    {"speaker": "gizmo", "caption": "Fine. But nobody EATS their own POOP.", "phonemes": "fˈaɪn. bˌʌt nˈoʊbədi ˈiːts ðɛɹ ˈoʊn pˈuːp.", "gizmo_mood": "smug", "fizzo_mood": "idle"},
+    {"speaker": "fizzo", "caption": "BUNNIES do! Special soft poop full of VITAMINS!", "phonemes": "bˈʌniz dˈuː! spˈɛʃəl sˈɔːft pˈuːp fˈʊl ʌv vˈaɪɾəmɪnz!", "gizmo_mood": "smug", "fizzo_mood": "laugh"},
+    {"speaker": "gizmo", "caption": "Clear fur... spinning heads... POOP... ERROR.", "phonemes": "klˈɪɹ fˈɜːɹ... spˈɪnɪŋ hˈɛdz... pˈuːp... ˈɛɹə.", "gizmo_mood": "glitch", "fizzo_mood": "laugh", "flash": true},
+    {"speaker": "fizzo", "caption": "Which one got YOU? COMMENT below!", "phonemes": "wˈɪʧ wˈʌn ɡɑːt jˈuː? kˈɑːmɛnt bᵻlˈoʊ!", "gizmo_mood": "glitch", "fizzo_mood": "happy"},
+    {"speaker": "fizzo", "caption": "FOLLOW for more! Gizmo's head is still SPINNING.", "phonemes": "fˈɑːloʊ fɔːɹ mˈɔːɹ! ɡˈɪzmoʊz hˈɛd ɪz stˈɪl spˈɪnɪŋ.", "gizmo_mood": "glitch", "fizzo_mood": "happy"}
+  ]
+}
